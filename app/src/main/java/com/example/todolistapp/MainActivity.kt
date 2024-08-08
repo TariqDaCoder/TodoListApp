@@ -19,7 +19,6 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.example.todolistapp.TodoItem
 import com.example.todolistapp.ui.theme.TodoListAppTheme
 import com.example.todolistapp.viewmodel.TodoViewModel
 
@@ -176,3 +175,4 @@ fun AddTodoBottomSheet(
         }
     }
 }
+//done :)
