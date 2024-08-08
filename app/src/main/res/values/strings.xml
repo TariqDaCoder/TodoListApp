@@ -1,10 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Todo List</string>
+
+    <!-- Todo Operations -->
     <string name="add_todo">Add Todo</string>
     <string name="new_todo">New Todo</string>
     <string name="save">Save</string>
     <string name="cancel">Cancel</string>
-    <string name="error_empty_todo">Todo text cannot be empty</string>
     <string name="delete_todo">Delete Todo</string>
     <string name="clear_text">Clear Text</string>
+    <string name="todo_label">Todo</string>
+
+    <!-- Login and Registration -->
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="create_account_prompt">Create an account</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+
+    <!-- Todo List -->
+    <string name="todo_list_title">Todo List</string>
+    <string name="logout_button">Logout</string>
+
+    <!-- Dialogs and Alerts -->
+    <string name="error_dialog_title">Error</string>
+    <string name="ok_button">OK</string>
+    <string name="add_todo_dialog_title">Add Todo</string>
+
+    <!-- Error Messages -->
+    <string name="error_empty_todo">Todo text cannot be empty</string>
+    <string name="login_failed">Login failed: %1$s</string>
+    <string name="registration_failed">Registration failed: %1$s</string>
+    <string name="fetch_todos_failed">Failed to fetch todos: %1$s</string>
+    <string name="add_todo_failed">Failed to add todo: %1$s</string>
+    <string name="update_todo_failed">Failed to update todo: %1$s</string>
+    <string name="delete_todo_failed">Failed to delete todo: %1$s</string>
+
+    <!-- New strings -->
+    <string name="loading">Loading…</string>
+    <string name="no_todos">No todos yet. Add one!</string>
+
 </resources>
